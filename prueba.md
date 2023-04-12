@@ -58,7 +58,8 @@ My skills can be divided into the following fields
 
 ### Languages
 
+```sh
 - *Navite Spanish*
 - *English* - B2
 - *German* - A1
-
+```
