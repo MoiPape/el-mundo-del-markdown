@@ -1,0 +1,5 @@
+alias cdce="cd /Code/el-mundo-del-markdown"
+alias cl="clear"
+alias npmd="npm run dev"
+alias nmps="npm start"
+alias rm="'trash"
